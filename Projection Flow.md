@@ -1,5 +1,5 @@
 +++
-title = "Projecton Flow"
+title = "Projection Flow"
 +++
 
 The model projects a best estimate cashflow projections including policy liabilities and capital requirement. The projections have been segregated and grouped under various functions which allows the policy liabilities and capital requirement projections to reuse some of these functions.
