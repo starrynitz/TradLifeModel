@@ -2,7 +2,9 @@
 title = "Data Structures"
 +++
 
-### Main Data Structures Used
+**Data Strutures** provides an intuitive and convenient way to represent "components" of an actuarial model. 
+
+The main **Data Structures** used in the model are as follows:
 
 - Model Points
 - Product Feature Sets

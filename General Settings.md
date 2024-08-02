@@ -2,16 +2,17 @@
 title = "General Settings"
 +++
 
-**General Settings** can be found in  `General Settings` tab of `Settings.xlsx`:
+**General Settings** can be found in `Settings.xlsx`.
 
-   - **Valuation Date**: Date used for valuation
+# Input Fields
 
-   - **Projection Years**: Number of years for the projection
+**Valuation Date**: Date used for valuation
 
-   - **Capital Requirement Gross up Factor**: Factor applied to the calculated capital requirement for life insurance risk to estimate the total capital requirement
+**Projection Years**: Number of years for the projection
 
-   - **Number of Workers for Multiprocessing**: Enter '0' if not using multiprocessing
+**Capital Requirement Gross up Factor**: Factor applied to the calculated capital requirement for life insurance risk to estimate the total capital requirement
 
-   - **Products to run**: Specify the products to be run 
+**Number of Workers for Multiprocessing**: Enter '0' if not using multiprocessing
 
-![Graph Description](/assets/general_settings.jpg)
+**Products to run**: Specify the products to be run 
+
