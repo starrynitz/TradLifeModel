@@ -10,16 +10,13 @@ title = "Runs"
 4. After the formula variables have been validated successfully, run the script `TradLifeModel.jl` using the following command:
    
    ```
-
    julia src/TradLifeModel.jl
-
    ```
 
 ### To validate User Defined Formula (UDF):
    Run the validation script `ValidateUDF.jl` using the following command to validate that User Defined Table contains all the variables used in User Defined Formula for each product and their product features.
    
    ```
-
    julia src/ValidateUDF.jl
    
    ```

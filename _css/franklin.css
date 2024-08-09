@@ -82,15 +82,15 @@ html {
 
 .franklin-content {
   position: relative;
-  padding-left: 250px;
-  padding-right: 100%;
+  padding-left: 12.5%;
+  padding-right: 12.5%;
   line-height: 1.35em;
 }
 
 /* On wide screens, fix content width to a max value. */
 @media (min-width: 940px) {
   .franklin-content {
-    width: calc(100% - 250px);
+    width: 705px;
     margin-left: auto;
     margin-right: auto;
   }
